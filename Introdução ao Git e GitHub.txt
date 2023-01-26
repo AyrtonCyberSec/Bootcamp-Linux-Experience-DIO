@@ -3,3 +3,6 @@ COMANDOS ESSENCIAIS - GIT BASH
 git clone - para clonar um repositório
 cd nome-do-repositorio - para navegar dentro do repositório criado/desejado
 git status - para verificar o status do repositório
+git add . - para adicionar os controles de versão local
+git commit -m "Inclusão de anotações do curso de Git/GitHub" - para enviar 
+git push origin main - para enviar todos os commits local para a nuvem

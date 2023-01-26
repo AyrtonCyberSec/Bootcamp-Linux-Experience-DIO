@@ -1,0 +1,5 @@
+COMANDOS ESSENCIAIS - GIT BASH
+
+git clone - para clonar um repositório
+cd nome-do-repositorio - para navegar dentro do repositório criado/desejado
+git status - para verificar o status do repositório
